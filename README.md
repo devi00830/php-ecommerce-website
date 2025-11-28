@@ -2,6 +2,7 @@
 A simple and functional E-Commerce Website built using PHP, MySQL, HTML, and CSS. This project includes essential shopping features such as user login, product browsing, add-to-cart system, and an admin dashboard for managing products.
 
 ⭐ Features
+
 👤 User Features
 User Registration & Login
 Browse Products with Images
@@ -12,6 +13,7 @@ Secure session handling
 User Logout
 
 🛠️ Admin Features
+
 Admin Login
 Add New Products
 Edit / Delete Products

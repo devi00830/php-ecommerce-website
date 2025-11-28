@@ -28,6 +28,8 @@ Edit / Delete Products
 | **Deployment**     | Localhost (XAMPP)           |
 
 📁 Project Structure
+
+
 /index.php            -> Home page / product display
 /login.php            -> User login
 /register.php         -> User sign-up
@@ -39,6 +41,7 @@ Edit / Delete Products
 /db.php               -> Database connection file
 /styles.css           -> Website styling
 /uploads/             -> Uploaded product images
+
 
 ⚙️ How to Run the Project
 

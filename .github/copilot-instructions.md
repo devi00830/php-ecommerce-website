@@ -1,4 +1,4 @@
-# E-Commerce Project: AI Coding Guidelines
+# E-Commerce Project: 
 
 ## Project Architecture
 

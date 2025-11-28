@@ -5,7 +5,7 @@ A simple and functional E-Commerce Website built using PHP, MySQL, HTML, and CSS
 
 👤 User Features
 User Registration & Login
-Browse Products with Images
+Browse Products with Image
 Add to Cart
 View & Update Cart Quantities
 Responsive product layout

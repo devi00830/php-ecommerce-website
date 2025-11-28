@@ -19,6 +19,7 @@ Add New Products
 Edit / Delete Products
 
 🧩 Tech Stack
+
 | Layer              | Technology                  |
 | ------------------ | --------------------------- |
 | **Frontend**       | HTML, CSS                   |
@@ -27,19 +28,30 @@ Edit / Delete Products
 | **Authentication** | PHP Sessions                |
 | **Deployment**     | Localhost (XAMPP)           |
 
+
 📁 Project Structure
 
 
 /index.php            -> Home page / product display
+
 /login.php            -> User login
+
 /register.php         -> User sign-up
+
 /cart.php             -> Shopping cart logic
+
 /logout.php           -> User logout
+
 /adminlogin.php       -> Admin authentication
+
 /add_product.php      -> Add products (Admin)
+
 /manage_products.php  -> View, edit, delete products
+
 /db.php               -> Database connection file
+
 /styles.css           -> Website styling
+
 /uploads/             -> Uploaded product images
 
 
@@ -78,6 +90,7 @@ Cart page
 
 
 🎯 Project Purpose
+
 This project was built to practice and demonstrate the basics of creating a real website. It shows how to:
 Build both frontend and backend (full-stack development)
 Add, update, and delete products (CRUD operations)

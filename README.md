@@ -41,10 +41,12 @@ Edit / Delete Products
 /uploads/             -> Uploaded product images
 
 ⚙️ How to Run the Project
+
 1️⃣ Prerequisites
 XAMPP installed
 Apache enable
 MySQL enabled
+
 2️⃣ Setup Steps
 1. Clone or download the project:
   git clone <your-repository-link>

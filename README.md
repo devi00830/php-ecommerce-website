@@ -56,9 +56,35 @@ Import your .sql file (if included)
     $conn = new mysqli("localhost", "root", "", "ecommerce_db");
 5. Run in the browser:
 http://localhost/<your-project-folder>/
-📸 Screenshots
 
+📸 Screenshots
+Login page
 <img width="1682" height="948" alt="image" src="https://github.com/user-attachments/assets/297b60e4-3690-4095-978a-2acca3ced1d1" />
+Main page
+<img width="1687" height="842" alt="image" src="https://github.com/user-attachments/assets/fcd2f54e-ab26-41bf-9c2f-f72ae7afa7bc" />
+Cart page
+<img width="1741" height="628" alt="image" src="https://github.com/user-attachments/assets/5056f81b-1537-4063-afc1-9e34fd214f4b" />
+
+🎯 Project Purpose
+This project was built to practice and demonstrate the basics of creating a real website. It shows how to:
+Build both frontend and backend (full-stack development)
+Add, update, and delete products (CRUD operations)
+Use login systems with sessions for security
+Manage products through an admin panel
+Work with a MySQL database to store information
+
+🤝 Contributions
+
+This is a personal portfolio project.
+Pull requests are welcome, but code commits are restricted.
+
+📜 License
+
+This project is for educational and portfolio purposes.
+You may modify or use it for learning.
+
+
+
 
 
 
